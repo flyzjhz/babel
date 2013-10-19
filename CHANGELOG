@@ -1,0 +1,6 @@
+Weiwei Jia and Yuli Tian, 2013-10-20
+1, Establish Babel project based on Mentohust, which
+removes trivial codes in Mentohust and connect the
+internet steadily.
+2, Modify RUIJiE_ADDR to the latest Mac address.
+3, Remove extra libnotify, libdl, libpcap source codes.
